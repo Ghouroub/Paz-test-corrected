@@ -1,0 +1,170 @@
+.clear-box {
+	clear: both;
+	overflow: hidden;
+}
+header {
+	height: 70px;
+	background-color: gray;
+	width: 100%;
+}
+header form {
+	background: gray;
+	float: left;
+	margin-right: 5px;
+}
+#search {
+	color: white;
+}
+#homePage img{
+width:18px;
+}
+#menu {
+	direction: rtl;
+}
+#menu ul {
+	list-style: none;
+	margin-top: 30px;
+	width: 100%;
+}
+#menu ul li {
+	float: right;
+	padding-right: 4%;
+}
+ ul li a {
+	color: black;
+	text-decoration: none;
+}
+#logo img {
+	float: right;
+	margin-top: -15px;
+}
+.section1 div {
+	margin-top: 35px;
+	margin-left: 2%;
+	float: right;
+	width: 30%;
+	height: 354px;
+	border-bottom-right-radius: 24px;
+}
+
+.section1 div div {
+	width: 100%;
+	color: white;
+	border-radius: 5px;
+}
+.section1 div div h1 {
+	font-weight: bold;
+	font-size: 17px;
+}
+.section1 div div p {
+	font-size: 13px;
+	font-weight: bold;
+}
+.section1 div div a {
+	color: white;
+}
+#pic1 {
+	background-image: url(img/pic1.JPG);
+}
+#pic1 div {
+	margin-right: 2%;
+	margin-top: 237px;
+	direction: rtl;
+	height: 111px;
+	width: 84% !important;
+	background-image: url(img/hp_tab_text_bg.png);
+	border-bottom-right-radius: 24px;
+}
+#pic2 {
+	background-image: url(img/pic2.jpg);
+}
+
+#pic2 div {
+	margin-right: 2%;
+	margin-top: 237px;
+	direction: rtl;
+	height: 111px;
+	width: 84% !important;
+	background-image: url(img/hp_tab_text_bg.png);
+	border-bottom-right-radius: 24px;
+}
+
+#pic3 {
+	background-image: url(img/pic3.jpg);
+}
+#pic3 div {
+	margin-right: 2%;
+	margin-top: 237px;
+	direction: rtl;
+	height: 111px;
+	width: 84% !important;
+	background-image: url(img/hp_tab_text_bg.png);
+	border-bottom-right-radius: 24px;
+}
+
+.section2 {
+	margin-top: 40px;
+	margin-left: 2%;
+}
+.sub-section1 {
+	background-image: url(img/small_cube_bg.png);
+	height: 216px;
+	width: 32%;
+	float: right;
+	margin-top: 50px;
+	margin-left: 1%;
+}
+
+.sub-section1 div:first-child {
+	margin-bottom: 20px;
+	padding-top: 10px;
+	direction: rtl;
+	color: #575757;
+}
+
+.sub-section1 div:nth-child(2) {
+	margin-left: 4%;
+}
+.sub-section1 div:last-child {
+	margin-top: 20px;
+	margin-left: 10%;
+}
+.section2 div a {
+	color: gray;
+}
+
+.sub-section2 {
+	background-image: url(img/small_cube_bg.png);
+	height: 216px;
+	width: 32%;
+	float: right;
+	margin-top: 50px;
+	margin-left: 1%;
+}
+
+.sub-section2 div:first-child {
+	margin-bottom: 20px;
+	padding-top: 10px;
+	direction: rtl;
+	color: #575757;
+}
+.sub-section2 div:nth-child(2) {
+	float: right;
+}
+.sub-section2 ul {
+	list-style: none;
+}
+
+footer {
+	margin-top: 50px;
+	background-color: url(img/footer_bg.png);
+}
+footer ul {
+	list-style: none;
+	
+}
+footer ul li {
+	float: right;
+	margin-right: 3%;
+	margin-top: 100px;
+}
